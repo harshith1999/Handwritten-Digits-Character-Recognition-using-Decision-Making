@@ -24,3 +24,5 @@ Working process and work Done till now:
  2. If Character, define whether it's Vowel or consonent.
  
  Note: I'll finish the full assignment within the Deadline and make result more perfect. Updated Deadline for me: 28th October 2019.
+
+Note: The Training and Testing Models taken from the Datasets given by OFL. Due to the size of training set more than 25MB, can't upload the file.
