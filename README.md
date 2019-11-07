@@ -16,4 +16,6 @@ Working process and work Done till now:
   4. Taken the feature with it's label ID, predicted with the Trained set that is Classified to get more accurated value as result for            Feature.
   5. When result is displayed, it will check the Accuracy with the Trained Classification to get more Accuracy.
  
-Note: Due to the size of training set more than 25MB, can't upload the file.
+Note: Due to the size of training set more than 25MB, can't upload the Trained set file. Mail me to get trained set :
+harshith1963@gmail.com.
+Note: Mapping.csv used to get the Ascii value mapped with the number when the number shown in output of feature ( Not included in Progream).
