@@ -18,4 +18,5 @@ Working process and work Done till now:
  
 Note: Due to the size of training set more than 25MB, can't upload the Trained set file. Mail me to get trained set :
 harshith1963@gmail.com.
+
 Note: Mapping.csv used to get the Ascii value mapped with the number when the number shown in output of feature ( Not included in Progream).
